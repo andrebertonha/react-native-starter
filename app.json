@@ -1,0 +1,9 @@
+{
+  "name": "hunt",
+  "displayName": "hunt",
+  "expo": {
+    "name":"My app",
+    "slug":"my-app",
+    "sdkVersion":"..."
+  }
+}
